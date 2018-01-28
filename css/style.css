@@ -1,0 +1,16 @@
+body {
+  height: 100%;
+  background: linear-gradient(to bottom, #4C739B 0%, #B0D5A7 100%) fixed;
+  background: -webkit-linear-gradient(to bottom, #4C739B 0%, #B0D5A7 100%) fixed;
+  background: -moz-linear-gradient(to bottom, #4C739B 0%, #B0D5A7 100%) fixed;
+}
+#panel{
+	width: 500px;
+	background-color: transparent;
+}
+#title{
+	font-family: 'Hevletica';
+}
+#cunit,#funit{
+	cursor: pointer;
+}
